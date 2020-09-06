@@ -23,7 +23,7 @@ const Comment = (props) => {
     padding: "40px 40px",
     borderLeft: "1px solid grey",
     borderBottom: "1px solid grey",
-    backgroundImage: "linear-gradient(30deg,orange,yellow)",
+    backgroundImage: "linear-gradient(30deg,orange,red)",
     textAlign: "left",
     marginLeft: "5px",
   };
